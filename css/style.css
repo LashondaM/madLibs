@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: url(https://images.axios.com/fWlgd9aAQxVnYfZQWdw6o7z81Ww=/0x0:1920x1080/1920x1080/2019/04/02/1554240120920.jpg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: cursive;
+    position: relative;
+    top: 0px;
+    color: white;
+}
+.text-align {
+    text-align: center;
+}
+p {
+   position: relative;
+   top: 320px;
+    font-family:'Roboto Mono', monospace;
+    font-weight: 800;
+    color: white;
+}
