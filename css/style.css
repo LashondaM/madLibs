@@ -9,6 +9,7 @@ h1 {
     position: relative;
     top: 0px;
     color: white;
+    display: flexbox;
 }
 .text-align {
     text-align: center;
@@ -19,4 +20,9 @@ p {
     font-family:'Roboto Mono', monospace;
     font-weight: 800;
     color: white;
+}
+
+button {
+    display: flexbox;
+    justify-content: flex-end;
 }
