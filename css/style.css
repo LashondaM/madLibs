@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-image: url(https://images.axios.com/fWlgd9aAQxVnYfZQWdw6o7z81Ww=/0x0:1920x1080/1920x1080/2019/04/02/1554240120920.jpg);
+    background-image: url(https://i.pinimg.com/originals/ca/4e/ea/ca4eea23c776bf348225832d858e0cd0.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
@@ -8,8 +9,12 @@ h1 {
     font-family: cursive;
     position: relative;
     top: 0px;
-    color: white;
+    color: rgb(2, 2, 1);
     display: flexbox;
+    border-color: rgb(250, 186, 10);
+    border-width: 15px;
+    border-style: double;
+    border-radius: 25px;
 }
 .text-align {
     text-align: center;
@@ -26,3 +31,5 @@ button {
     display: flexbox;
     justify-content: flex-end;
 }
+
+/* border */
